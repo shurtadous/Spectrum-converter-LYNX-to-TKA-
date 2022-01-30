@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcadata xmlns="http://www.canberra.com/mcaanywhair">
+<input>1</input>
+<group>1</group>
+<devicetype>1</devicetype>
+<parameter code="39" value="86400" name="Preset Live Time (s)" input="1"/>
+<parameter code="40" value="3600" name="Preset Real Time (s)" input="1"/>
+<parameter code="38" value="0" name="Time Preset Options" input="1"/>
+<parameter code="38" value="0" name="Computational Preset Options" input="1"/>
+<parameter code="41" value="1" name="Computational Preset Start Channel" input="1"/>
+<parameter code="42" value="20" name="Computational Preset End Channel" input="1"/>
+<parameter code="60" value="0" name="Acquisition Mode" input="1"/>
+<parameter code="305" value="1" name="List mode acquisition options" input="1"/>
+<parameter code="61" value="131074" name="Status" input="1"/>
+<parameter code="62" value="10" name="Computational Preset Limit" input="1"/>
+<parameter code="284" value="100000" name="listBufferSize" input="1"/>
+<parameter code="69" value="Wed Jul 14 11:19:25 GMT+0200 2021" name="Acq. Start" input="1"/>
+<parameter code="66" value="169178380000" name="Elapsed Live" input="1"/>
+<parameter code="67" value="169189410000" name="Elapsed Real Time" input="1"/>
+<parameter code="64" value="0" name="Elapsed Totals" input="1"/>
+<parameter code="271" value="0" name="Deadtime" input="1"/>
+<parameter code="247" value="48" name="Count Rate" input="1"/>
+<parameter code="47" value="1" name="Current Group" input="1"/>
+<parameter code="322" value="1" name="Active Group" input="1"/>
+<parameter code="45" value="1" name="Input Lock State" input="1"/>
+<parameter code="158" value="2500" name="HV Voltage (V)" input="1"/>
+<parameter code="161" value="true" name="Voltage On" input="1"/>
+<parameter code="165" value="false" name="Voltage Fault State" input="1"/>
+<parameter code="162" value="true" name="Voltage Inhibit Control On" input="1"/>
+<parameter code="163" value="0" name="Inhibit Polarity" input="1"/>
+<parameter code="167" value="2500" name="HV Limit (V)" input="1"/>
+<parameter code="160" value="0" name="Polarity" input="1"/>
+<parameter code="159" value="5000" name="HV Range (V)" input="1"/>
+<parameter code="166" value="2487.1796875" name="HV Reading (V)" input="1"/>
+<parameter code="164" value="false" name="Voltage Ramping State" input="1"/>
+<parameter code="218" value="0" name="Stabilizer Gain Correction Range" input="1"/>
+<parameter code="219" value="0" name="Stabilizer Gain Mode" input="1"/>
+<parameter code="221" value="0" name="Stabilizer Gain Divider" input="1"/>
+<parameter code="222" value="10" name="Stabilizer Spacing" input="1"/>
+<parameter code="223" value="4" name="Stabilizer Window" input="1"/>
+<parameter code="224" value="1" name="Stabilizer Ratio Mode" input="1"/>
+<parameter code="226" value="1" name="Stabilizer Manual Ratio" input="1"/>
+<parameter code="227" value="10" name="Stabilizer Centroid" input="1"/>
+<parameter code="225" value="0" name="Stabilizer Correction Value" input="1"/>
+<parameter code="220" value="8" name="Stabilizer Status" input="1"/>
+<parameter code="195" value="1" name="Flat Top (μs)" input="1"/>
+<parameter code="194" value="5.800000190734863" name="Rise Time (μs)" input="1"/>
+<parameter code="237" value="0" name="Fast Discriminator Shaping" input="1"/>
+<parameter code="238" value="0" name="Fast Discriminator Mode" input="1"/>
+<parameter code="239" value="1" name="Manual Fast discriminator" input="1"/>
+<parameter code="235" value="0" name="BLR Mode" input="1"/>
+<parameter code="243" value="11" name="PUR Guard" input="1"/>
+<parameter code="244" value="500" name="LT Trim" input="1"/>
+<parameter code="245" value="0" name="PUR LTC Mode" input="1"/>
+<parameter code="289" value="2283" name="Pole Zero" input="1"/>
+<parameter code="157" value="2283" name="Manual Pole Zero" input="1"/>
+<parameter code="200" value="0" name="Pole Zero Status" input="1"/>
+<parameter code="329" value="0" name="Slow Discriminator Mode" input="1"/>
+<parameter code="330" value="1" name="Manual Slow discriminator" input="1"/>
+<parameter code="332" value="20000" name="Slow Shaper high threshold" input="1"/>
+<parameter code="331" value="2000" name="Fast Shaper high threshold" input="1"/>
+<parameter code="345" value="1" name="BLR Hardware mode" input="1"/>
+<parameter code="350" value="0" name="Input Differentiator Time Constant" input="1"/>
+<parameter code="342" value="0" name="Fast BLR time constant" input="1"/>
+<parameter code="338" value="10" name="Fast discriminator extension" input="1"/>
+<parameter code="340" value="0" name="Fast disc. slow gate ext" input="1"/>
+<parameter code="344" value="0" name="Filter Fast flat top  (uS)" input="1"/>
+<parameter code="347" value="0" name="Fast Low Multiplier" input="1"/>
+<parameter code="346" value="0" name="Fast Normal Multiplier" input="1"/>
+<parameter code="343" value="0" name="Filter Fast flat top  (uS)" input="1"/>
+<parameter code="349" value="0" name="Filter M-Factor (uS)" input="1"/>
+<parameter code="351" value="0" name="Factory Filter M-Factor (uS) from ACM. Factory assigned." input="1"/>
+<parameter code="341" value="0" name="Slow BLR time constant" input="1"/>
+<parameter code="339" value="10" name="Slow discriminator extension" input="1"/>
+<parameter code="348" value="0" name="Slow Normal Multiplier" input="1"/>
+<parameter code="378" value="0" name="Overload Recovery Extension Timer" input="1"/>
+<parameter code="70" value="8192" name="Conversion Gain" input="1"/>
+<parameter code="155" value="true" name="Attenuate" input="1"/>
+<parameter code="154" value="3.359999895095825" name="Coarse Gain" input="1"/>
+<parameter code="145" value="1" name="Fine Gain" input="1"/>
+<parameter code="241" value="0" name="LLD %" input="1"/>
+<parameter code="242" value="100" name="ULD %" input="1"/>
+<parameter code="240" value="1" name="LLD Mode" input="1"/>
+<parameter code="246" value="0" name="Polarity" input="1"/>
+<parameter code="250" value="0" name="TRP Gate Polarity" input="1"/>
+<parameter code="249" value="0" name="TRP Inhibit (μs)" input="1"/>
+<parameter code="248" value="0" name="TRP Inhibit Mode" input="1"/>
+<parameter code="236" value="0" name="Preamp Type" input="1"/>
+<parameter code="231" value="0" name="Digital Offset" input="1"/>
+<parameter code="356" value="1" name="Amp Super Fine Gain adjust. " input="1"/>
+<parameter code="254" value="0" name="GPIO1 Control" input="1"/>
+<parameter code="255" value="0" name="GPIO2 Control" input="1"/>
+<parameter code="256" value="0" name="GPIO3 Control" input="1"/>
+<parameter code="211" value="0" name="Auxiliary Counters Clock Source" input="1"/>
+<parameter code="208" value="0" name="Auxiliary Counters Gate Timer (μs)" input="1"/>
+<parameter code="212" value="100" name="Auxiliary Counters Preset Limit (ms)" input="1"/>
+<parameter code="253" value="false" name="Enable" input="1"/>
+<parameter code="213" value="0" name="Auxiliary Counters Mode" input="1"/>
+<parameter code="319" value="100" name="Auxiliary Counters Buffer Size" input="1"/>
+<parameter code="251" value="0" name="Sample Changer Advance Polarity" input="1"/>
+<parameter code="270" value="true" name="Sample Changer ready state" input="1"/>
+<parameter code="252" value="0" name="Sample Changer Ready Polarity" input="1"/>
+<parameter code="355" value="150" name="Sample changer advance pulse width in mSecs" input="1"/>
+<parameter code="323" value="0" name="SCA Clock Source" input="1"/>
+<parameter code="310" value="1" name="SCA Preset Options" input="1"/>
+<parameter code="309" value="10000" name="SCA Preset Limit (ms)" input="1"/>
+<parameter code="312" value="false" name="SCA Enable" input="1"/>
+<parameter code="311" value="0" name="SCA Mode" input="1"/>
+<parameter code="320" value="1000" name="SCA Buffer Size" input="1"/>
+<parameter code="264" value="0" name="External Synchronization Mode" input="1"/>
+<parameter code="267" value="0" name="External Synchronization Polarity" input="1"/>
+<parameter code="265" value="1000" name="External Synchronization Pulse (ms)" input="1"/>
+<parameter code="263" value="0" name="External Synchronization Status" input="1"/>
+<parameter code="266" value="2000" name="External Synchronization Timeout (ms)" input="1"/>
+<parameter code="217" value="0" name="Coincidence Gate Delay (μs)" input="1"/>
+<parameter code="215" value="6" name="Coincidence Gate Options" input="1"/>
+<parameter code="216" value="0" name="Coincidence Gate Polarity" input="1"/>
+<parameter code="336" value="6" name="Coincidence Predelay" input="1"/>
+<parameter code="337" value="2" name="Coincidence Gate Pulse Width" input="1"/>
+<parameter code="234" value="0" name="PHA External Control" input="1"/>
+<parameter code="232" value="0" name="PHA External Control Mode" input="1"/>
+<parameter code="233" value="0" name="PHA External Control Polarity" input="1"/>
+<parameter code="203" value="1.4.1.111" name="Firmware Version" input="0"/>
+<parameter code="80" value="13001932" name="Serial Number" input="0"/>
+<parameter code="292" value="1.191" name="Driver Version" input="0"/>
+<parameter code="293" value="1.253" name="FPGA Version" input="0"/>
+<parameter code="352" value="password" name="Admin Password" input="0"/>
+<parameter code="357" value="" name="The device manufacturing information" input="0"/>
+<parameter code="354" value="0" name="Thermistor value in ohms" input="0"/>
+<parameter code="358" value="0" name="AnalogReading1" input="0"/>
+<parameter code="359" value="0" name="AnalogReading2" input="0"/>
+<parameter code="360" value="0" name="AnalogReading3" input="0"/>
+<parameter code="361" value="0" name="AnalogReading4" input="0"/>
+<parameter code="362" value="0" name="AnalogReading5" input="0"/>
+<parameter code="363" value="0" name="AnalogReading6" input="0"/>
+<parameter code="364" value="0" name="AnalogReading7" input="0"/>
+<parameter code="365" value="0" name="AnalogReading8" input="0"/>
+<parameter code="366" value="0" name="AnalogStatus1" input="0"/>
+<parameter code="367" value="0" name="AnalogStatus2" input="0"/>
+<parameter code="368" value="0" name="AnalogStatus3" input="0"/>
+<parameter code="369" value="0" name="AnalogStatus4" input="0"/>
+<parameter code="370" value="0" name="AnalogStatus5" input="0"/>
+<parameter code="371" value="0" name="AnalogStatus6" input="0"/>
+<parameter code="372" value="0" name="AnalogStatus7" input="0"/>
+<parameter code="373" value="0" name="AnalogStatus8" input="0"/>
+<parameter code="45" value="1" name="Input Lock State" input="0"/>
+<parameter code="278" value="3" name="Monitor Control" input="1"/>
+<parameter code="304" value="0001c011ee1f" name="Ethernet MAC Address" input="0"/>
+<parameter code="269" value="10.0.0.3" name="Ethernet Assigned IP Address" input="0"/>
+<parameter code="13" value="10.0.0.3" name="Ethernet IP Address" input="0"/>
+<parameter code="15" value="10.0.0.3" name="Ethernet Gateway" input="0"/>
+<parameter code="16" value="255.255.255.0" name="Ethernet Subnet" input="0"/>
+<parameter code="14" value="false" name="Ethernet DHCP Enable" input="0"/>
+<parameter code="303" value="" name="CDC Ethernet MAC Address" input="0"/>
+<parameter code="78" value="10.0.0.2" name="CDC Ethernet Assigned IP Address" input="0"/>
+<parameter code="78" value="10.0.0.2" name="CDC Ethernet IP Address" input="0"/>
+<parameter code="76" value="10.0.1.4" name="CDC Ethernet Gateway" input="0"/>
+<parameter code="77" value="255.255.255.0" name="CDC Ethernet Subnet" input="0"/>
+<parameter code="10" value="Lynx" name="UPnP Friendly Name" input="0"/>
+<parameter code="83" value="3" name="UPnP TTL" input="0"/>
+<parameter code="84" value="true" name="UPnP Enable" input="0"/>
+<parameter code="86" value="true" name="Web Server Enable" input="0"/>
+<parameter code="123" value="false" name="FTP Enable" input="0"/>
+<parameter code="81" value="Lynx" name="Machine Name" input="0"/>
+<parameter code="79" value="false" name="Login required" input="0"/>
+<parameter code="298" value="16386" name="streamPortName" input="1"/>
+<parameter code="301" value="true" name="streamEnName" input="1"/>
+<parameter code="175" value="4" name="Signal Mask" input="1"/>
+<parameter code="94" value="30" name="Capture Interval (s)" input="1"/>
+<parameter code="189" value="true" name="Data Available State" input="1"/>
+<parameter code="190" value="false" name="Excessive Pileup State" input="1"/>
+<parameter code="97" value="128" name="Number of Samples before Trigger Event" input="1"/>
+<parameter code="98" value="128" name="Number of Samples after Trigger Event" input="1"/>
+<parameter code="204" value="12.5" name="Resolution" input="1"/>
+<parameter code="191" value="256" name="Sample Count" input="1"/>
+<parameter code="188" value="false" name="Triggered" input="1"/>
+<parameter code="99" value="4" name="DSO Source" input="1"/>
+<parameter code="172" value="2" name="Trigger Mode" input="1"/>
+<parameter code="174" value="0" name="Pileup Reject" input="1"/>
+<parameter code="171" value="6" name="Number of Samples to Average" input="1"/>
+<parameter code="100" value="0" name="DSO  Slope" input="1"/>
+<parameter code="49" value="-0.5804264545440674" name="Energy cal. Offset" input="-1"/>
+<parameter code="50" value="0.24653968214988708" name="Energy cal. Slope" input="-1"/>
+<parameter code="51" value="0" name="Energy cal. Quadratic" input="-1"/>
+<parameter code="57" value="0" name="FWHM cal. Model" input="-1"/>
+<parameter code="52" value="0.0004319371364545077" name="FWHM cal. Offset" input="-1"/>
+<parameter code="53" value="0.023590950295329094" name="FWHM cal. Slope" input="-1"/>
+<parameter code="54" value="0.35341498255729675" name="FWHM cal. Offset" input="-1"/>
+<parameter code="55" value="0.0003839682321995497" name="FWHM cal. Slope" input="-1"/>
+<parameter code="56" value="0" name="FWHM cal. Quadratic" input="-1"/>
+<parameter code="58" value="0.1201249212026596" name="Low tail cal. offset" input="-1"/>
+<parameter code="59" value="0.00013034399307798594" name="Low tail cal. slope" input="-1"/>
+<parameter code="187" value="0.001" name="MCS Dwell Time (s)" input="2"/>
+<parameter code="63" value="1" name="Preset Sweeps" input="2"/>
+<parameter code="38" value="0" name="MCS Preset Options" input="2"/>
+<parameter code="205" value="0" name="MCS Discriminator Options" input="2"/>
+<parameter code="206" value="1" name="MCS Discriminator Start Channel" input="2"/>
+<parameter code="207" value="20" name="MCS Discriminator End Channel." input="2"/>
+<parameter code="275" value="0" name="MCS External Channel Advance Polarity" input="2"/>
+<parameter code="277" value="0" name="MCS External Sweep Advance Polarity" input="2"/>
+<parameter code="276" value="0" name="MCS Sweep Advance Mode" input="2"/>
+<parameter code="274" value="0" name="MCS Channel Advance Mode" input="2"/>
+<parameter code="61" value="2" name="Status" input="2"/>
+<parameter code="45" value="1" name="Input Lock State" input="2"/>
+<parameter code="69" value="Sat Jan 1 05:03:46 GMT+0100 2000" name="Acq. Start" input="2"/>
+<parameter code="65" value="0" name="Elapsed Sweeps" input="2"/>
+<parameter code="271" value="0" name="Deadtime" input="2"/>
+<parameter code="247" value="3" name="Count Rate" input="2"/>
+<parameter code="47" value="2" name="Current Group" input="2"/>
+<parameter code="322" value="2" name="Active Group" input="2"/>
+<parameter code="230" value="0" name="MCS External Control" input="2"/>
+<parameter code="228" value="0" name="MCS External Control Mode" input="2"/>
+<parameter code="229" value="0" name="MCS External Control Polarity" input="2"/>
+<parameter code="70" value="32768" name="Conversion Gain" input="2"/>
+<sca lld="0" uld="100" />
+<sca lld="0" uld="100" />
+<sca lld="0" uld="100" />
+<sca lld="0" uld="100" />
+<sca lld="0" uld="100" />
+<sca lld="0" uld="100" />
+<sca lld="0" uld="100" />
+<sca lld="0" uld="100" />
+<spectrum start="Wed Jul 14 11:19:25 GMT+0200 2021" start_time_ms="1626254365806" elapsed_deadtime="0.006519320565039405" elapsed_real="169189.41" elapsed_live="169178.38" elapsed_comp_cnts="0" elapsed_comp_start_chan="1" elapsed_comp_end_chan="20" status="0" units="sec">0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 5, 4, 20, 40, 94, 146, 190, 161, 96, 38, 16, 6, 5, 3, 3, 4, 6, 7, 9, 14, 34, 70, 127, 180, 230, 230, 211, 259, 249, 224, 228, 212, 226, 229, 215, 193, 183, 160, 184, 155, 180, 162, 128, 144, 146, 144, 138, 125, 102, 143, 131, 136, 122, 133, 128, 106, 134, 126, 116, 116, 123, 102, 117, 88, 125, 125, 93, 100, 93, 110, 90, 97, 98, 105, 98, 102, 101, 84, 92, 83, 91, 102, 68, 83, 84, 89, 76, 82, 88, 82, 98, 95, 80, 92, 86, 89, 84, 82, 103, 95, 81, 69, 98, 80, 86, 84, 89, 68, 74, 77, 96, 68, 71, 82, 81, 80, 79, 88, 97, 76, 88, 85, 75, 75, 69, 73, 72, 73, 66, 70, 68, 68, 84, 65, 83, 71, 59, 80, 60, 71, 64, 66, 72, 76, 77, 73, 72, 89, 84, 79, 95, 71, 76, 80, 83, 75, 64, 61, 69, 68, 66, 74, 64, 55, 61, 55, 67, 51, 61, 73, 62, 88, 100, 96, 123, 150, 147, 168, 158, 162, 120, 131, 110, 97, 92, 47, 76, 64, 56, 51, 56, 67, 58, 59, 61, 58, 67, 50, 58, 55, 46, 63, 62, 58, 45, 82, 69, 69, 62, 63, 69, 54, 62, 61, 64, 51, 60, 52, 69, 47, 55, 51, 61, 52, 50, 63, 70, 76, 65, 85, 67, 76, 84, 78, 66, 69, 64, 64, 72, 73, 84, 84, 98, 109, 102, 134, 127, 102, 93, 86, 86, 69, 68, 73, 60, 57, 77, 47, 56, 61, 51, 68, 59, 52, 67, 46, 55, 65, 68, 51, 49, 52, 52, 60, 58, 55, 63, 53, 59, 49, 57, 53, 60, 63, 76, 72, 85, 118, 117, 175, 188, 242, 266, 282, 238, 257, 223, 297, 262, 305, 343, 340, 381, 349, 334, 237, 216, 174, 122, 88, 97, 64, 57, 39, 50, 45, 45, 49, 58, 65, 44, 55, 63, 66, 55, 60, 73, 84, 79, 102, 84, 99, 63, 74, 91, 87, 70, 81, 107, 94, 133, 152, 127, 154, 143, 123, 128, 117, 88, 86, 78, 91, 75, 84, 72, 65, 65, 64, 68, 85, 65, 75, 88, 128, 113, 110, 124, 106, 107, 75, 68, 65, 59, 54, 27, 55, 37, 27, 26, 31, 32, 27, 29, 27, 34, 25, 41, 28, 32, 29, 32, 28, 24, 24, 29, 28, 28, 24, 30, 26, 21, 25, 17, 28, 23, 21, 26, 20, 27, 18, 28, 27, 26, 25, 19, 29, 39, 33, 24, 25, 28, 23, 24, 24, 24, 28, 20, 18, 27, 19, 26, 25, 24, 26, 31, 34, 30, 26, 22, 36, 30, 30, 32, 31, 16, 22, 25, 27, 21, 41, 35, 30, 31, 23, 24, 23, 19, 31, 30, 26, 18, 34, 26, 28, 29, 25, 22, 23, 26, 14, 24, 27, 26, 27, 22, 25, 21, 26, 24, 19, 22, 22, 25, 32, 22, 34, 29, 29, 31, 29, 37, 35, 20, 27, 28, 18, 28, 19, 31, 29, 30, 24, 31, 24, 33, 24, 31, 35, 31, 29, 37, 24, 46, 32, 24, 28, 35, 32, 42, 33, 23, 35, 24, 39, 31, 29, 28, 21, 28, 32, 32, 35, 36, 21, 22, 24, 33, 32, 23, 30, 37, 27, 26, 29, 38, 29, 22, 31, 26, 25, 21, 27, 27, 23, 29, 27, 29, 27, 21, 31, 38, 35, 25, 30, 31, 27, 24, 24, 32, 24, 34, 33, 35, 33, 32, 38, 28, 31, 37, 29, 26, 24, 22, 22, 24, 21, 26, 31, 27, 24, 24, 23, 21, 32, 25, 27, 26, 24, 15, 31, 26, 35, 25, 24, 29, 19, 25, 27, 30, 34, 35, 35, 33, 35, 29, 24, 38, 35, 25, 22, 30, 32, 25, 20, 27, 22, 18, 21, 24, 32, 13, 23, 24, 32, 28, 18, 22, 27, 27, 24, 33, 25, 18, 25, 22, 15, 32, 31, 23, 28, 28, 31, 29, 31, 27, 33, 25, 20, 29, 36, 27, 21, 22, 20, 24, 17, 21, 29, 20, 17, 20, 21, 23, 22, 24, 19, 19, 20, 22, 15, 30, 23, 16, 17, 21, 26, 25, 23, 26, 26, 19, 21, 21, 25, 28, 22, 27, 25, 25, 15, 29, 17, 23, 22, 20, 17, 16, 25, 18, 21, 18, 17, 27, 17, 16, 28, 25, 17, 20, 22, 18, 20, 17, 20, 20, 22, 27, 21, 10, 20, 12, 19, 23, 28, 26, 19, 31, 40, 46, 63, 75, 52, 78, 92, 78, 80, 77, 72, 43, 45, 36, 29, 25, 17, 20, 28, 27, 18, 28, 16, 22, 16, 22, 25, 23, 23, 20, 33, 19, 19, 20, 17, 20, 21, 25, 12, 31, 17, 17, 24, 23, 19, 20, 21, 22, 20, 18, 21, 19, 22, 27, 32, 28, 17, 21, 17, 24, 30, 27, 21, 18, 17, 18, 21, 26, 22, 13, 16, 30, 25, 23, 26, 27, 23, 20, 19, 21, 23, 18, 25, 26, 21, 22, 24, 16, 21, 17, 18, 19, 23, 27, 25, 24, 32, 29, 43, 42, 44, 34, 47, 22, 22, 23, 24, 19, 25, 23, 22, 23, 19, 18, 17, 15, 12, 22, 23, 14, 24, 14, 21, 18, 14, 27, 22, 22, 16, 18, 22, 24, 10, 15, 23, 11, 17, 22, 17, 14, 16, 14, 24, 10, 16, 18, 11, 26, 16, 17, 12, 21, 15, 12, 16, 16, 21, 17, 24, 15, 16, 26, 14, 16, 16, 26, 11, 21, 16, 15, 19, 23, 21, 21, 16, 24, 21, 21, 19, 22, 19, 21, 22, 19, 24, 15, 22, 15, 15, 13, 20, 19, 19, 14, 19, 14, 9, 14, 21, 16, 11, 16, 14, 19, 17, 18, 21, 24, 22, 25, 32, 38, 58, 72, 98, 147, 213, 249, 311, 345, 372, 369, 356, 331, 242, 206, 161, 109, 94, 85, 86, 105, 87, 83, 74, 71, 71, 39, 37, 42, 24, 24, 18, 20, 20, 22, 20, 19, 10, 10, 11, 15, 17, 22, 14, 18, 10, 14, 14, 9, 16, 16, 10, 21, 15, 14, 13, 19, 15, 10, 11, 16, 14, 14, 9, 11, 7, 16, 11, 19, 12, 12, 18, 16, 8, 17, 8, 21, 17, 15, 10, 23, 11, 17, 22, 9, 11, 25, 12, 18, 11, 15, 15, 12, 11, 13, 14, 23, 12, 15, 14, 10, 11, 11, 16, 10, 13, 13, 14, 10, 10, 14, 13, 10, 12, 13, 14, 14, 17, 12, 12, 15, 9, 13, 13, 17, 13, 9, 16, 19, 14, 16, 13, 13, 20, 24, 28, 21, 14, 27, 20, 20, 18, 13, 24, 22, 17, 11, 10, 14, 11, 14, 18, 11, 14, 12, 16, 13, 13, 10, 9, 17, 11, 15, 18, 26, 12, 13, 14, 16, 12, 10, 15, 10, 14, 14, 10, 16, 11, 10, 10, 10, 9, 10, 13, 10, 14, 12, 18, 18, 12, 7, 12, 17, 13, 12, 14, 15, 7, 13, 17, 13, 10, 12, 10, 8, 21, 13, 12, 12, 18, 12, 14, 20, 14, 8, 8, 8, 13, 11, 16, 7, 20, 14, 14, 19, 17, 15, 15, 19, 14, 19, 17, 31, 38, 43, 63, 74, 86, 110, 97, 107, 96, 91, 66, 48, 36, 34, 27, 25, 14, 12, 9, 16, 14, 12, 18, 17, 21, 16, 15, 25, 19, 15, 18, 14, 15, 14, 10, 15, 11, 9, 11, 16, 15, 9, 12, 12, 13, 9, 6, 6, 9, 8, 10, 12, 8, 13, 13, 12, 8, 10, 14, 8, 9, 12, 8, 8, 12, 10, 11, 10, 11, 12, 7, 6, 8, 10, 9, 12, 15, 7, 15, 6, 13, 14, 16, 11, 13, 7, 19, 11, 12, 11, 7, 11, 11, 9, 17, 10, 12, 13, 10, 10, 8, 7, 7, 8, 9, 11, 7, 13, 9, 7, 12, 8, 10, 12, 7, 7, 13, 6, 8, 12, 16, 10, 15, 8, 9, 9, 13, 8, 6, 7, 8, 12, 11, 11, 8, 19, 13, 11, 12, 11, 15, 15, 12, 8, 10, 13, 16, 8, 7, 19, 8, 15, 8, 7, 11, 11, 8, 10, 14, 6, 12, 12, 5, 18, 15, 12, 12, 9, 15, 13, 10, 11, 11, 15, 11, 22, 25, 34, 39, 50, 41, 62, 67, 53, 51, 39, 28, 24, 14, 11, 10, 13, 13, 9, 9, 1, 12, 8, 4, 6, 14, 15, 9, 11, 8, 13, 9, 8, 8, 9, 11, 9, 15, 11, 9, 13, 10, 13, 7, 7, 5, 6, 8, 13, 11, 9, 13, 17, 30, 34, 42, 66, 87, 93, 138, 164, 156, 150, 132, 118, 98, 82, 53, 34, 22, 16, 10, 17, 10, 6, 5, 8, 13, 7, 8, 9, 6, 10, 4, 13, 8, 13, 9, 6, 5, 9, 11, 4, 5, 9, 7, 14, 7, 10, 9, 6, 3, 6, 10, 4, 9, 9, 6, 13, 3, 6, 13, 12, 9, 12, 4, 7, 7, 6, 3, 4, 11, 5, 7, 8, 8, 8, 9, 6, 7, 10, 7, 8, 7, 9, 5, 1, 7, 7, 12, 10, 7, 10, 8, 10, 6, 4, 5, 9, 6, 10, 12, 8, 8, 10, 17, 13, 13, 12, 15, 12, 12, 11, 13, 11, 14, 11, 10, 7, 9, 7, 3, 3, 6, 10, 9, 7, 14, 7, 6, 4, 5, 6, 6, 5, 6, 11, 7, 0, 18, 4, 7, 4, 8, 15, 7, 5, 2, 8, 11, 14, 8, 13, 7, 10, 9, 6, 7, 10, 10, 8, 14, 6, 9, 5, 2, 10, 12, 5, 7, 6, 8, 9, 5, 9, 8, 7, 7, 14, 5, 12, 7, 11, 6, 15, 10, 8, 5, 11, 10, 3, 7, 8, 8, 5, 4, 11, 10, 10, 5, 2, 3, 5, 6, 4, 10, 3, 9, 5, 11, 6, 13, 5, 9, 14, 10, 6, 7, 7, 9, 12, 5, 6, 8, 4, 6, 11, 4, 9, 7, 7, 6, 3, 3, 7, 7, 8, 7, 8, 6, 5, 10, 8, 5, 8, 8, 4, 7, 6, 6, 14, 11, 3, 2, 13, 10, 9, 5, 8, 4, 9, 11, 8, 6, 11, 7, 5, 6, 11, 10, 6, 12, 10, 3, 6, 10, 6, 7, 12, 10, 10, 6, 6, 7, 6, 8, 7, 9, 1, 7, 8, 11, 6, 11, 5, 7, 5, 4, 11, 7, 7, 7, 9, 9, 4, 9, 8, 6, 10, 4, 7, 7, 9, 7, 10, 9, 5, 9, 10, 8, 6, 9, 5, 9, 7, 7, 7, 2, 6, 9, 8, 12, 7, 7, 4, 4, 8, 6, 4, 6, 3, 5, 9, 9, 4, 6, 7, 8, 3, 9, 5, 7, 12, 4, 5, 9, 8, 3, 8, 4, 3, 9, 9, 6, 3, 11, 5, 6, 8, 7, 7, 6, 8, 13, 10, 4, 8, 16, 11, 6, 7, 6, 7, 10, 6, 9, 6, 11, 8, 7, 5, 9, 6, 11, 10, 8, 7, 11, 9, 12, 6, 8, 10, 5, 6, 7, 9, 8, 3, 7, 3, 11, 6, 8, 8, 6, 9, 9, 7, 5, 5, 6, 11, 8, 5, 6, 6, 5, 7, 4, 6, 5, 3, 8, 10, 9, 9, 4, 8, 8, 7, 9, 6, 7, 3, 8, 7, 9, 6, 11, 5, 6, 7, 6, 9, 5, 6, 9, 7, 10, 7, 4, 14, 3, 12, 12, 9, 4, 5, 12, 5, 5, 6, 8, 8, 13, 4, 10, 8, 13, 5, 8, 9, 8, 13, 4, 13, 8, 8, 3, 6, 3, 5, 8, 4, 4, 7, 5, 12, 10, 7, 3, 5, 6, 10, 8, 6, 7, 5, 8, 7, 8, 8, 7, 9, 7, 7, 8, 7, 7, 3, 8, 8, 6, 8, 10, 6, 8, 6, 8, 6, 7, 7, 5, 9, 8, 2, 7, 7, 0, 5, 4, 9, 6, 9, 6, 3, 4, 3, 4, 9, 3, 7, 3, 4, 8, 4, 2, 5, 5, 5, 7, 5, 7, 4, 3, 5, 5, 7, 4, 5, 3, 9, 6, 7, 7, 11, 10, 11, 8, 4, 2, 4, 8, 10, 3, 11, 10, 12, 7, 10, 6, 14, 4, 5, 4, 6, 6, 11, 5, 4, 7, 9, 6, 2, 7, 2, 5, 8, 6, 3, 13, 7, 8, 10, 14, 6, 5, 10, 13, 11, 6, 6, 4, 8, 11, 7, 9, 6, 7, 7, 7, 7, 8, 6, 5, 3, 5, 3, 5, 9, 5, 11, 8, 9, 12, 6, 11, 5, 7, 8, 13, 12, 15, 8, 11, 11, 9, 14, 15, 11, 9, 7, 7, 13, 11, 12, 8, 5, 7, 6, 5, 5, 12, 8, 7, 6, 10, 7, 6, 5, 13, 4, 7, 9, 7, 6, 3, 4, 5, 4, 3, 5, 3, 8, 13, 6, 9, 2, 3, 8, 8, 3, 5, 5, 6, 7, 3, 4, 6, 7, 6, 3, 10, 2, 0, 6, 4, 2, 13, 3, 4, 5, 8, 4, 8, 4, 7, 7, 6, 5, 4, 4, 7, 5, 3, 2, 7, 5, 6, 3, 1, 7, 8, 8, 6, 5, 8, 5, 4, 7, 7, 8, 6, 7, 7, 3, 3, 6, 5, 5, 6, 3, 6, 8, 3, 6, 3, 2, 5, 5, 6, 7, 4, 4, 4, 6, 2, 9, 8, 6, 3, 3, 3, 1, 6, 8, 4, 5, 0, 6, 1, 6, 3, 5, 4, 7, 3, 4, 5, 1, 5, 4, 5, 3, 6, 6, 2, 6, 3, 5, 5, 4, 3, 6, 3, 8, 5, 4, 9, 3, 5, 5, 5, 6, 6, 9, 5, 2, 2, 4, 3, 6, 6, 6, 2, 7, 9, 2, 6, 5, 6, 7, 4, 7, 4, 5, 1, 1, 3, 7, 2, 1, 3, 5, 6, 5, 5, 2, 8, 5, 4, 7, 11, 6, 5, 6, 7, 3, 9, 6, 7, 9, 2, 4, 3, 6, 8, 3, 7, 1, 5, 6, 10, 4, 4, 3, 5, 11, 8, 3, 10, 5, 7, 4, 3, 4, 4, 4, 5, 3, 2, 6, 6, 3, 4, 2, 5, 2, 6, 7, 6, 5, 4, 8, 6, 9, 2, 5, 5, 3, 5, 3, 4, 6, 8, 2, 10, 2, 2, 4, 5, 5, 7, 2, 1, 6, 3, 4, 6, 2, 1, 5, 9, 4, 10, 20, 20, 18, 24, 29, 20, 20, 19, 17, 11, 14, 10, 4, 4, 6, 7, 9, 3, 4, 4, 5, 6, 4, 8, 8, 2, 3, 5, 3, 1, 4, 3, 5, 2, 3, 6, 5, 5, 4, 8, 2, 3, 3, 7, 5, 4, 5, 5, 5, 2, 3, 4, 8, 4, 7, 4, 4, 7, 2, 3, 3, 3, 5, 5, 5, 7, 6, 3, 5, 7, 6, 4, 11, 8, 9, 4, 2, 7, 4, 10, 6, 8, 7, 2, 7, 7, 7, 9, 7, 6, 5, 4, 7, 6, 7, 1, 1, 7, 2, 4, 7, 13, 6, 14, 9, 10, 16, 23, 24, 19, 21, 20, 27, 25, 13, 15, 7, 9, 9, 7, 6, 4, 4, 2, 3, 4, 3, 1, 4, 4, 3, 8, 6, 3, 4, 9, 6, 3, 3, 5, 2, 7, 4, 8, 9, 11, 4, 4, 4, 4, 4, 4, 5, 5, 3, 4, 7, 6, 5, 3, 3, 3, 2, 3, 7, 1, 4, 2, 7, 7, 4, 3, 6, 1, 4, 3, 10, 9, 4, 4, 1, 2, 5, 12, 5, 6, 3, 4, 7, 3, 6, 4, 5, 6, 2, 5, 7, 4, 5, 4, 4, 7, 3, 8, 5, 4, 3, 3, 2, 2, 5, 8, 2, 5, 2, 4, 3, 4, 2, 9, 3, 10, 3, 4, 6, 6, 4, 4, 3, 1, 1, 3, 1, 2, 1, 2, 0, 2, 3, 4, 2, 2, 3, 4, 7, 1, 8, 6, 3, 4, 1, 3, 3, 2, 4, 2, 3, 5, 4, 4, 6, 5, 4, 7, 5, 4, 5, 4, 3, 8, 3, 5, 4, 3, 7, 2, 5, 4, 6, 4, 4, 8, 8, 4, 8, 4, 2, 2, 4, 0, 6, 1, 3, 8, 5, 0, 3, 4, 3, 4, 6, 8, 2, 3, 3, 4, 5, 7, 4, 8, 5, 4, 2, 5, 6, 9, 13, 10, 15, 20, 27, 16, 29, 25, 26, 28, 20, 13, 17, 13, 4, 8, 3, 7, 0, 6, 7, 4, 6, 2, 3, 2, 6, 6, 5, 3, 0, 2, 5, 5, 6, 2, 5, 5, 2, 5, 3, 3, 1, 7, 4, 4, 5, 6, 3, 6, 5, 2, 2, 4, 5, 7, 5, 4, 3, 2, 5, 3, 5, 2, 4, 7, 5, 2, 4, 5, 1, 4, 6, 5, 2, 4, 5, 4, 4, 4, 4, 5, 5, 7, 4, 3, 2, 3, 4, 4, 5, 5, 2, 5, 2, 1, 3, 3, 2, 5, 11, 4, 1, 6, 6, 5, 3, 3, 2, 9, 2, 1, 3, 3, 6, 7, 2, 3, 3, 2, 4, 4, 6, 4, 5, 4, 4, 3, 5, 4, 4, 1, 4, 5, 1, 8, 3, 6, 3, 3, 10, 4, 5, 3, 1, 4, 10, 6, 3, 7, 5, 5, 2, 3, 2, 2, 4, 3, 9, 6, 4, 6, 2, 5, 5, 1, 2, 5, 6, 3, 5, 7, 3, 4, 4, 4, 2, 6, 4, 3, 4, 3, 2, 2, 3, 5, 2, 0, 2, 5, 5, 1, 4, 7, 2, 4, 2, 3, 5, 3, 1, 2, 5, 3, 3, 11, 4, 3, 3, 4, 4, 3, 3, 7, 3, 3, 6, 8, 5, 4, 2, 4, 3, 11, 6, 1, 4, 3, 4, 4, 3, 2, 1, 4, 3, 5, 4, 6, 4, 1, 4, 1, 2, 3, 3, 2, 2, 5, 3, 7, 6, 4, 5, 1, 5, 8, 6, 4, 7, 6, 3, 9, 3, 5, 5, 5, 8, 10, 9, 13, 15, 11, 17, 17, 17, 13, 22, 17, 12, 6, 13, 3, 5, 4, 2, 1, 4, 5, 3, 6, 5, 1, 3, 3, 1, 7, 1, 4, 3, 3, 7, 1, 2, 3, 7, 3, 5, 4, 3, 3, 4, 7, 3, 5, 2, 1, 4, 4, 2, 3, 0, 7, 1, 6, 3, 2, 6, 1, 0, 5, 3, 2, 4, 3, 4, 4, 6, 3, 7, 4, 3, 2, 8, 5, 1, 5, 8, 6, 3, 1, 2, 2, 5, 2, 6, 1, 7, 1, 9, 6, 1, 2, 5, 7, 4, 5, 2, 0, 6, 7, 3, 7, 3, 2, 5, 1, 4, 5, 5, 5, 3, 6, 3, 7, 4, 2, 6, 3, 3, 5, 3, 4, 3, 3, 2, 3, 5, 5, 5, 2, 6, 4, 3, 3, 7, 4, 2, 6, 4, 3, 2, 3, 4, 2, 4, 4, 2, 3, 2, 3, 5, 3, 2, 4, 6, 2, 4, 6, 5, 6, 4, 5, 4, 10, 5, 3, 3, 8, 6, 7, 3, 2, 4, 4, 4, 4, 6, 2, 3, 4, 5, 7, 2, 7, 3, 1, 5, 3, 0, 7, 1, 4, 3, 2, 3, 5, 4, 4, 1, 4, 3, 5, 5, 4, 3, 3, 7, 3, 5, 5, 4, 3, 4, 3, 1, 2, 6, 1, 1, 1, 3, 8, 3, 5, 4, 5, 5, 6, 0, 4, 3, 4, 7, 9, 3, 4, 2, 3, 9, 3, 7, 6, 6, 3, 9, 3, 3, 5, 5, 2, 5, 4, 2, 5, 6, 2, 6, 1, 4, 7, 3, 6, 1, 3, 6, 4, 3, 4, 1, 3, 4, 3, 2, 3, 6, 3, 6, 6, 5, 5, 6, 6, 4, 6, 1, 4, 5, 2, 4, 1, 4, 3, 1, 3, 3, 4, 4, 2, 3, 4, 3, 0, 4, 3, 5, 4, 3, 3, 4, 3, 1, 2, 4, 2, 5, 2, 1, 4, 1, 1, 3, 4, 4, 4, 7, 3, 0, 3, 3, 6, 1, 2, 2, 2, 2, 5, 4, 5, 4, 3, 4, 3, 2, 4, 0, 1, 5, 2, 5, 2, 3, 3, 2, 3, 3, 5, 1, 3, 1, 3, 2, 2, 4, 3, 2, 3, 6, 0, 2, 2, 3, 2, 2, 3, 4, 1, 2, 2, 4, 4, 7, 6, 5, 4, 4, 4, 4, 4, 4, 2, 4, 4, 3, 2, 4, 2, 3, 1, 4, 5, 6, 2, 6, 2, 2, 4, 3, 6, 3, 7, 4, 5, 7, 1, 2, 6, 3, 3, 5, 1, 3, 3, 3, 4, 3, 3, 5, 6, 5, 4, 5, 4, 2, 6, 7, 4, 5, 5, 1, 2, 8, 3, 5, 4, 5, 6, 2, 5, 4, 2, 5, 5, 3, 3, 5, 4, 4, 6, 3, 9, 1, 5, 6, 7, 1, 2, 1, 2, 4, 1, 4, 3, 3, 4, 4, 2, 6, 1, 2, 5, 3, 3, 3, 4, 3, 1, 5, 3, 8, 1, 1, 3, 3, 2, 6, 1, 6, 5, 7, 1, 2, 7, 2, 3, 2, 5, 7, 1, 6, 2, 3, 6, 1, 3, 1, 3, 2, 1, 3, 2, 5, 6, 3, 0, 5, 2, 2, 3, 3, 1, 5, 3, 4, 0, 2, 3, 5, 1, 2, 3, 4, 4, 7, 7, 8, 7, 8, 2, 5, 3, 8, 3, 4, 4, 4, 1, 3, 3, 3, 3, 2, 2, 4, 1, 4, 1, 4, 5, 0, 2, 1, 2, 1, 0, 0, 3, 2, 0, 3, 2, 3, 4, 5, 2, 3, 2, 4, 2, 1, 2, 5, 4, 5, 1, 5, 6, 3, 0, 3, 6, 4, 3, 2, 2, 2, 2, 4, 5, 2, 0, 3, 4, 5, 3, 1, 3, 3, 4, 5, 2, 1, 3, 1, 5, 1, 1, 4, 5, 6, 2, 3, 5, 5, 2, 2, 4, 2, 2, 4, 3, 3, 2, 0, 3, 2, 3, 1, 1, 0, 1, 2, 3, 3, 3, 2, 4, 3, 2, 0, 0, 3, 1, 6, 3, 1, 5, 2, 2, 2, 3, 3, 2, 2, 3, 3, 1, 1, 1, 2, 6, 2, 2, 3, 4, 5, 5, 3, 2, 2, 3, 4, 1, 2, 2, 4, 3, 0, 2, 3, 2, 2, 1, 3, 2, 0, 2, 3, 2, 6, 2, 3, 4, 5, 1, 1, 5, 2, 3, 2, 3, 1, 4, 7, 1, 3, 3, 3, 3, 6, 4, 5, 1, 4, 7, 5, 6, 1, 2, 5, 3, 5, 7, 8, 9, 20, 22, 24, 27, 38, 37, 46, 33, 36, 29, 20, 24, 14, 10, 4, 5, 5, 5, 3, 4, 0, 4, 2, 7, 1, 2, 0, 3, 5, 4, 4, 2, 2, 3, 2, 1, 1, 3, 3, 2, 4, 4, 4, 6, 1, 1, 2, 5, 1, 5, 4, 3, 6, 3, 3, 3, 2, 4, 1, 4, 5, 2, 3, 6, 2, 3, 3, 2, 1, 1, 3, 4, 3, 4, 3, 7, 4, 2, 7, 2, 2, 4, 5, 2, 2, 2, 3, 1, 2, 1, 5, 6, 0, 2, 5, 2, 1, 7, 3, 2, 3, 4, 1, 4, 6, 4, 5, 1, 5, 6, 2, 1, 2, 5, 4, 0, 3, 4, 1, 2, 7, 5, 2, 8, 1, 3, 3, 3, 4, 2, 4, 3, 3, 1, 2, 1, 2, 5, 1, 4, 1, 4, 3, 0, 2, 2, 2, 3, 2, 4, 3, 1, 3, 4, 7, 1, 2, 4, 3, 0, 5, 3, 0, 4, 5, 2, 2, 4, 4, 0, 2, 1, 3, 3, 5, 6, 2, 1, 5, 2, 6, 4, 1, 1, 4, 4, 1, 1, 1, 3, 4, 5, 2, 1, 4, 3, 1, 3, 3, 1, 4, 1, 8, 2, 2, 3, 4, 3, 4, 1, 1, 2, 2, 4, 2, 2, 5, 5, 3, 3, 4, 4, 6, 5, 9, 7, 9, 6, 6, 4, 7, 6, 8, 11, 8, 16, 21, 12, 23, 26, 23, 29, 20, 13, 14, 9, 14, 2, 11, 10, 1, 3, 4, 4, 3, 3, 2, 3, 4, 3, 2, 2, 1, 1, 2, 1, 0, 0, 5, 2, 0, 3, 1, 2, 2, 4, 3, 3, 0, 2, 4, 2, 4, 5, 3, 4, 1, 3, 1, 0, 1, 4, 2, 7, 3, 5, 3, 2, 4, 1, 4, 3, 3, 6, 4, 2, 1, 1, 2, 3, 5, 2, 4, 6, 1, 3, 1, 1, 3, 6, 1, 1, 4, 3, 3, 3, 5, 4, 3, 5, 0, 2, 2, 5, 2, 7, 3, 3, 2, 4, 1, 3, 2, 5, 4, 4, 3, 1, 3, 3, 5, 3, 5, 2, 3, 5, 4, 1, 1, 2, 6, 4, 3, 4, 4, 2, 5, 8, 6, 5, 9, 8, 5, 7, 3, 4, 2, 7, 2, 2, 4, 9, 7, 2, 5, 5, 4, 2, 4, 1, 4, 4, 3, 2, 1, 0, 4, 3, 5, 2, 1, 2, 4, 5, 3, 2, 2, 3, 4, 2, 1, 4, 1, 0, 2, 3, 2, 6, 3, 5, 3, 6, 3, 0, 1, 5, 4, 6, 2, 6, 4, 5, 4, 4, 2, 4, 3, 1, 4, 1, 2, 2, 2, 2, 0, 2, 3, 1, 4, 1, 2, 4, 6, 2, 0, 1, 3, 2, 4, 5, 5, 1, 2, 2, 1, 4, 0, 3, 3, 0, 2, 3, 2, 4, 2, 2, 0, 2, 1, 2, 3, 1, 1, 6, 1, 3, 3, 4, 4, 2, 4, 1, 4, 1, 1, 4, 1, 2, 2, 3, 2, 4, 2, 1, 2, 3, 4, 1, 2, 4, 4, 3, 2, 4, 2, 3, 3, 6, 2, 3, 3, 4, 1, 3, 3, 4, 5, 2, 3, 3, 2, 3, 0, 1, 2, 2, 3, 5, 4, 0, 3, 1, 2, 2, 2, 3, 1, 3, 2, 2, 4, 5, 3, 3, 3, 1, 6, 3, 1, 2, 2, 1, 2, 1, 6, 0, 3, 2, 1, 1, 1, 3, 4, 1, 2, 0, 1, 5, 2, 3, 3, 4, 1, 3, 5, 3, 3, 4, 4, 4, 2, 3, 1, 1, 0, 1, 3, 5, 4, 2, 5, 5, 3, 6, 2, 5, 2, 2, 4, 0, 4, 5, 4, 2, 1, 4, 4, 7, 2, 5, 2, 4, 5, 5, 4, 6, 7, 3, 9, 3, 2, 7, 3, 4, 3, 3, 3, 2, 2, 1, 2, 1, 3, 4, 5, 2, 2, 0, 0, 6, 2, 4, 3, 5, 3, 4, 6, 0, 1, 2, 4, 2, 4, 0, 3, 3, 0, 1, 3, 2, 4, 1, 4, 1, 2, 0, 0, 4, 4, 1, 5, 3, 2, 1, 1, 0, 1, 5, 1, 4, 3, 6, 0, 1, 4, 3, 1, 2, 0, 1, 3, 2, 3, 4, 1, 2, 1, 5, 4, 5, 4, 4, 3, 1, 5, 0, 1, 1, 0, 5, 2, 2, 4, 1, 3, 1, 4, 4, 2, 1, 2, 5, 2, 3, 2, 3, 1, 2, 0, 2, 2, 3, 6, 3, 4, 6, 2, 1, 2, 3, 4, 4, 4, 0, 3, 2, 1, 3, 2, 3, 4, 0, 1, 3, 1, 3, 2, 3, 6, 4, 3, 2, 2, 1, 5, 1, 5, 2, 1, 7, 1, 2, 0, 1, 1, 2, 0, 3, 1, 2, 3, 5, 2, 3, 4, 2, 3, 1, 8, 3, 3, 3, 1, 0, 0, 2, 3, 7, 5, 1, 2, 5, 2, 2, 3, 3, 0, 4, 3, 3, 4, 3, 1, 7, 1, 0, 1, 2, 2, 3, 4, 3, 1, 1, 3, 1, 4, 2, 4, 2, 1, 3, 2, 2, 3, 2, 2, 5, 6, 4, 0, 3, 2, 11, 5, 6, 2, 6, 4, 6, 5, 4, 4, 6, 0, 2, 3, 2, 4, 4, 6, 0, 4, 2, 3, 2, 2, 3, 3, 4, 3, 4, 3, 2, 4, 0, 3, 4, 3, 3, 3, 4, 3, 1, 2, 5, 1, 4, 2, 1, 1, 4, 3, 5, 2, 4, 2, 4, 1, 5, 3, 0, 4, 4, 3, 3, 1, 3, 3, 3, 0, 0, 2, 2, 1, 2, 3, 4, 1, 2, 1, 1, 1, 4, 8, 2, 4, 2, 3, 3, 4, 1, 1, 2, 2, 1, 3, 2, 1, 3, 2, 3, 1, 3, 2, 1, 4, 2, 4, 4, 4, 4, 1, 1, 2, 1, 2, 2, 1, 1, 6, 1, 2, 1, 4, 0, 3, 3, 2, 3, 3, 0, 1, 3, 6, 3, 3, 3, 4, 4, 1, 2, 2, 3, 2, 4, 3, 1, 0, 2, 2, 1, 3, 2, 2, 1, 3, 4, 0, 3, 0, 2, 2, 5, 1, 3, 3, 2, 2, 1, 4, 1, 1, 3, 0, 6, 1, 5, 3, 2, 0, 1, 1, 1, 2, 1, 3, 2, 0, 2, 2, 2, 1, 0, 2, 4, 3, 1, 2, 4, 4, 2, 2, 6, 2, 1, 3, 6, 1, 4, 5, 3, 0, 1, 5, 1, 2, 3, 5, 2, 3, 4, 0, 1, 1, 0, 4, 6, 3, 1, 1, 0, 2, 5, 2, 2, 4, 1, 6, 1, 4, 2, 2, 4, 1, 3, 1, 1, 1, 0, 1, 2, 1, 2, 3, 3, 3, 1, 5, 5, 1, 2, 1, 1, 2, 0, 2, 2, 2, 1, 6, 1, 6, 1, 2, 4, 3, 1, 4, 4, 4, 1, 0, 2, 2, 5, 1, 7, 1, 3, 0, 3, 3, 5, 3, 3, 4, 3, 2, 1, 4, 1, 1, 3, 2, 2, 2, 0, 1, 1, 1, 3, 3, 3, 4, 3, 3, 3, 2, 2, 0, 1, 1, 1, 3, 2, 1, 2, 3, 4, 1, 3, 1, 3, 2, 3, 2, 2, 3, 4, 2, 3, 1, 1, 3, 4, 4, 3, 2, 6, 3, 0, 1, 0, 4, 2, 1, 1, 2, 2, 3, 3, 4, 1, 0, 1, 4, 3, 3, 4, 2, 3, 3, 4, 4, 5, 4, 3, 3, 3, 4, 2, 2, 5, 2, 1, 2, 4, 0, 3, 1, 4, 0, 1, 3, 3, 2, 1, 4, 3, 0, 1, 4, 6, 3, 5, 4, 2, 5, 2, 0, 2, 1, 2, 4, 3, 5, 2, 2, 1, 3, 3, 3, 3, 4, 7, 2, 2, 3, 5, 0, 0, 4, 8, 4, 4, 0, 2, 3, 1, 2, 2, 5, 3, 6, 2, 3, 2, 3, 2, 6, 2, 0, 1, 3, 6, 1, 1, 1, 4, 2, 5, 1, 1, 3, 4, 2, 2, 6, 3, 3, 3, 2, 5, 3, 4, 8, 5, 3, 6, 3, 3, 3, 6, 3, 3, 3, 3, 2, 4, 1, 6, 8, 2, 3, 6, 2, 0, 0, 1, 3, 3, 6, 5, 1, 1, 1, 4, 6, 6, 5, 2, 2, 5, 3, 2, 4, 2, 1, 0, 1, 4, 2, 3, 4, 2, 2, 7, 3, 3, 1, 3, 1, 5, 1, 3, 1, 4, 1, 0, 2, 3, 3, 3, 2, 1, 5, 3, 2, 3, 5, 1, 1, 1, 2, 0, 4, 4, 3, 4, 4, 0, 2, 2, 1, 4, 2, 0, 6, 3, 1, 2, 2, 5, 7, 2, 4, 3, 2, 4, 0, 2, 1, 2, 6, 1, 0, 3, 6, 1, 2, 2, 4, 2, 4, 4, 5, 4, 4, 3, 2, 0, 3, 5, 0, 3, 2, 7, 3, 2, 1, 3, 4, 1, 4, 1, 6, 5, 3, 2, 5, 0, 1, 3, 2, 5, 0, 1, 3, 1, 1, 4, 1, 5, 5, 4, 1, 2, 2, 3, 2, 1, 4, 0, 2, 5, 3, 4, 1, 4, 2, 2, 1, 3, 3, 3, 2, 4, 4, 1, 4, 2, 1, 4, 6, 2, 3, 3, 4, 3, 3, 4, 5, 3, 5, 3, 1, 2, 5, 0, 5, 2, 1, 0, 3, 2, 4, 5, 3, 3, 2, 2, 2, 4, 6, 1, 3, 4, 5, 0, 4, 1, 4, 2, 0, 5, 4, 2, 2, 4, 3, 3, 4, 3, 4, 2, 5, 2, 4, 4, 4, 2, 3, 2, 2, 2, 5, 3, 2, 1, 1, 3, 1, 0, 2, 4, 4, 3, 5, 5, 1, 2, 3, 4, 0, 4, 1, 2, 5, 4, 1, 5, 1, 0, 2, 5, 3, 2, 5, 2, 3, 3, 0, 1, 1, 1, 3, 6, 3, 3, 4, 2, 4, 2, 1, 4, 1, 3, 1, 2, 2, 5, 3, 1, 4, 0, 1, 4, 6, 2, 4, 5, 3, 4, 3, 4, 2, 3, 3, 5, 1, 6, 5, 3, 4, 4, 5, 0, 3, 6, 3, 3, 1, 2, 1, 0, 1, 5, 4, 4, 5, 6, 1, 1, 2, 2, 2, 3, 2, 2, 1, 5, 2, 2, 6, 2, 3, 1, 7, 5, 3, 6, 2, 4, 1, 1, 2, 1, 3, 4, 4, 3, 1, 6, 1, 3, 3, 2, 1, 4, 3, 5, 3, 1, 0, 5, 4, 4, 4, 3, 3, 3, 4, 3, 2, 2, 3, 4, 4, 2, 3, 3, 4, 2, 6, 3, 3, 1, 2, 2, 1, 3, 1, 0, 3, 2, 5, 3, 2, 1, 2, 2, 4, 2, 3, 3, 1, 3, 2, 3, 1, 5, 3, 3, 1, 2, 4, 4, 0, 3, 2, 6, 3, 1, 2, 1, 0, 1, 3, 2, 2, 4, 1, 0, 1, 1, 1, 2, 0, 2, 2, 2, 4, 2, 6, 1, 2, 3, 1, 4, 0, 0, 1, 1, 2, 1, 1, 4, 1, 3, 2, 3, 1, 3, 1, 5, 5, 2, 0, 2, 4, 3, 3, 0, 0, 0, 0, 0, 0, 4, 1, 0, 1, 2, 1, 1, 3, 2, 0, 0, 3, 2, 1, 3, 2, 2, 3, 5, 4, 4, 6, 1, 2, 2, 2, 2, 1, 3, 1, 0, 1, 1, 1, 0, 1, 1, 3, 2, 0, 4, 2, 0, 2, 1, 1, 2, 2, 3, 1, 3, 2, 5, 2, 5, 2, 3, 1, 5, 3, 4, 4, 3, 3, 7, 1, 4, 5, 4, 6, 13, 7, 3, 10, 3, 1, 3, 6, 1, 1, 2, 4, 1, 2, 2, 4, 1, 2, 3, 0, 4, 0, 2, 3, 3, 7, 2, 2, 2, 0, 1, 2, 3, 1, 3, 2, 3, 2, 2, 3, 2, 1, 1, 0, 3, 1, 2, 2, 1, 4, 1, 3, 2, 0, 4, 2, 0, 3, 3, 4, 3, 4, 1, 2, 2, 3, 1, 3, 1, 2, 2, 1, 4, 2, 3, 5, 2, 1, 2, 0, 5, 1, 3, 2, 1, 1, 0, 2, 0, 1, 1, 0, 5, 0, 1, 2, 2, 1, 2, 4, 1, 2, 3, 2, 0, 1, 3, 2, 2, 3, 2, 1, 4, 2, 1, 1, 3, 1, 1, 0, 4, 2, 1, 0, 4, 1, 1, 2, 1, 2, 0, 0, 1, 2, 2, 2, 1, 0, 0, 2, 1, 1, 1, 0, 3, 2, 0, 3, 2, 3, 1, 1, 2, 1, 2, 1, 4, 1, 1, 2, 3, 2, 1, 5, 5, 1, 1, 2, 0, 3, 1, 1, 0, 4, 3, 0, 1, 2, 1, 3, 3, 0, 4, 3, 2, 3, 3, 1, 3, 0, 1, 1, 3, 0, 2, 2, 2, 3, 1, 2, 2, 0, 2, 1, 0, 1, 2, 2, 1, 0, 3, 1, 4, 2, 0, 1, 3, 3, 1, 0, 4, 1, 1, 3, 3, 1, 1, 1, 2, 3, 1, 0, 2, 2, 1, 2, 4, 0, 3, 1, 1, 0, 2, 2, 0, 3, 0, 2, 3, 2, 2, 2, 3, 2, 3, 1, 0, 5, 2, 1, 4, 2, 2, 2, 0, 0, 2, 1, 1, 3, 2, 2, 3, 1, 0, 1, 1, 0, 3, 2, 3, 2, 4, 1, 1, 2, 1, 1, 4, 1, 1, 0, 0, 1, 1, 1, 2, 3, 2, 2, 1, 5, 6, 2, 0, 1, 2, 1, 3, 3, 0, 1, 1, 1, 5, 2, 0, 2, 3, 0, 2, 3, 1, 1, 11, 6, 18, 22, 36, 49, 64, 92, 130, 153, 181, 203, 205, 233, 220, 216, 170, 145, 114, 85, 65, 36, 28, 15, 14, 7, 5, 5, 2, 2, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 0, 0, 1, 1, 2, 0, 0, 4, 0, 3, 1, 1, 0, 2, 0, 2, 0, 0, 1, 1, 2, 0, 1, 3, 2, 2, 0, 1, 1, 1, 2, 0, 1, 1, 1, 0, 2, 0, 1, 0, 0, 2, 2, 2, 0, 3, 2, 1, 0, 2, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 3, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 3, 0, 0, 1, 2, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 2, 1, 2, 1, 0, 1, 2, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 3, 1, 2, 3, 2, 2, 3, 2, 0, 0, 4, 3, 1, 2, 1, 0, 3, 1, 1, 2, 2, 0, 0, 1, 2, 0, 2, 1, 0, 3, 1, 1, 1, 1, 2, 1, 3, 2, 0, 0, 0, 0, 1, 3, 1, 1, 0, 0, 1, 0, 1, 2, 1, 0, 0, 0, 0, 1, 2, 0, 0, 2, 0, 2, 0, 1, 0, 0, 2, 1, 0, 2, 2, 0, 2, 0, 4, 1, 3, 1, 2, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 2, 4, 0, 1, 0, 0, 0, 0, 0, 0, 1, 2, 4, 1, 2, 0, 1, 2, 3, 1, 2, 0, 0, 0, 1, 1, 1, 0, 3, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 2, 0, 1, 1, 0, 2, 2, 2, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 2, 0, 1, 0, 2, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 3, 1, 0, 0, 2, 1, 1, 1, 3, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 2, 2, 1, 0, 1, 3, 1, 1, 0, 2, 0, 0, 2, 1, 0, 2, 1, 0, 1, 1, 0, 0, 0, 0, 4, 0, 0, 0, 1, 0, 3, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 2, 2, 0, 0, 0, 1, 1, 0, 1, 3, 0, 0, 1, 2, 1, 0, 2, 1, 1, 3, 2, 0, 0, 2, 0, 0, 0, 0, 1, 0, 2, 0, 1, 1, 0, 1, 1, 0, 0, 2, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 3, 1, 1, 0, 1, 0, 2, 0, 2, 1, 0, 0, 1, 1, 2, 2, 0, 1, 1, 1, 0, 0, 0, 0, 2, 0, 0, 0, 1, 1, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 2, 3, 2, 1, 0, 3, 0, 2, 2, 2, 1, 1, 0, 0, 0, 1, 0, 3, 2, 0, 0, 3, 0, 1, 2, 1, 1, 2, 1, 4, 4, 2, 2, 4, 5, 7, 3, 2, 3, 6, 2, 3, 1, 1, 1, 3, 0, 5, 1, 0, 0, 0, 1, 0, 2, 1, 3, 0, 0, 2, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 2, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1, 2, 0, 2, 0, 0, 0, 2, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 3, 2, 0, 0, 1, 0, 0, 3, 1, 3, 1, 1, 0, 0, 0, 1, 1, 1, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 1, 0, 0, 0, 2, 0, 0, 0, 1, 3, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 2, 1, 2, 2, 1, 2, 5, 3, 1, 5, 1, 4, 0, 0, 1, 2, 0, 4, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0, 0, 2, 1, 0, 2, 3, 1, 2, 4, 2, 2, 1, 2, 3, 2, 1, 3, 1, 1, 0, 0, 1, 2, 1, 1, 0, 2, 1, 0, 0, 0, 0, 2, 1, 0, 1, 0, 2, 1, 0, 1, 1, 0, 1, 3, 2, 3, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 2, 0, 0, 0, 1, 2, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 3, 1, 1, 2, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 2, 0, 2, 1, 1, 2, 0, 3, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 5, 0, 3, 1, 2, 2, 2, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 2, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 2, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 2, 0, 1, 1, 1, 1, 0, 3, 2, 0, 1, 2, 1, 0, 2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 3, 0, 2, 1, 1, 0, 0, 0, 0, 1, 1, 2, 0, 0, 3, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 2, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 4, 0, 0, 1, 0, 2, 2, 0, 0, 1, 0, 1, 0, 2, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 2, 2, 4, 7, 6, 6, 5, 5, 8, 1, 5, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 1, 1, 1, 0, 2, 1, 2, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2, 1, 1, 0, 0, 1, 2, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 2, 0, 0, 2, 2, 1, 1, 2, 3, 6, 4, 11, 10, 12, 16, 12, 10, 14, 13, 9, 8, 7, 7, 4, 7, 5, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 2, 2, 0, 0, 1, 0, 1, 1, 2, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 2, 2, 0, 0, 0, 1, 0, 2, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 2, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 2, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 2, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1, 0, 3, 1, 0, 4, 2, 2, 0, 6, 0, 5, 1, 1, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2, 2, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 2, 0, 0, 0, 0, 0, 2, 1, 0, 2, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 1, 1, 0, 0, 0, 2, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 1, 2, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 3, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 3, 0, 0, 1, 2, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 2, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 1, 3, 0, 3, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 2, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 1, 1, 0, 1</spectrum>
+<display_region start="2019" end="2123" type="1" />
+<display_region start="4681" end="4856" type="1" />
+<display_region start="225" end="264" type="1" />
+<display_region start="172" end="205" type="1" />
+<list_data>
+</list_data>
+<dso_buffer_data time="Mon Jul 12 10:13:25 GMT+0200 2021" start_time_ms="1626077605192" analog_signals="0" average_sweeps="0" capture_interval="0" flags="0" sample_rate="0" >
+<trigger_information level="0" mode="0" num_pre_trigger_samples="0" num_post_trigger_samples="0" slope="0" source="0" />
+</dso_buffer_data>
+<sca_buffer_data>
+</sca_buffer_data>
+<counter_buffer_data>
+</counter_buffer_data>
+<calibration_details type="energy">
+<model type="polynomial" chi_square="0" is_default="true"><coefficient value="-0.5804264545440674" /><coefficient value="0.24653968214988708" /><coefficient value="0" /><covariance>
+</covariance>
+</model>
+</calibration_details>
+<calibration_details type="fwhm">
+<model type="polynomial" chi_square="0" is_default="false"><coefficient value="0.35341498255729675" /><coefficient value="0.0003839682321995497" /><coefficient value="0" /><covariance>
+</covariance>
+</model>
+<model type="square_root" chi_square="0" is_default="true"><coefficient value="0.0004319371364545077" /><coefficient value="0.023590950295329094" /><covariance>
+</covariance>
+</model>
+</calibration_details>
+<calibration_details type="low_energy_tail">
+<model type="polynomial" chi_square="0" is_default="true"><coefficient value="0.1201249212026596" /><coefficient value="0.00013034399307798594" /><covariance>
+</covariance>
+</model>
+</calibration_details>
+<analysis_results matches_spectrum="false" >
+<tentative_nid><nuclides>
+</nuclides></tentative_nid>
+</analysis_results>
+<annotations>
+</annotations>
+</mcadata>
